@@ -1,0 +1,3 @@
+world, car, animal, computer, pen, dog, chair, mouse
+ball, sky, tree, window, bottle, door
+apple, banana, table book, shoes, laptop, 12 bottle, bottle, mouse, dog, dfsma, world, mouse
