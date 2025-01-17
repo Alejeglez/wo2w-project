@@ -3,10 +3,10 @@ name: Run Pytest Tests
 on:
   push:
     branches:
-      - master  # O cualquier otra rama en la que quieras ejecutar las pruebas
+      - main # O cualquier otra rama en la que quieras ejecutar las pruebas
   pull_request:
     branches:
-      - master  # Ejecutar pruebas cuando se haga un pull request hacia la rama principal
+      - main  # Ejecutar pruebas cuando se haga un pull request hacia la rama principal
 
 jobs:
   test:
